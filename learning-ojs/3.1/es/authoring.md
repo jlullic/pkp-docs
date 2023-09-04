@@ -1,15 +1,15 @@
 # Capítulo 13. Autoría
 
-En este capítulo, aprenderá cómo funciona un autor en OJS 3.1 desde el registro hasta la revisión de la galerada final.
+En este capítulo, aprenderá cómo funciona un autor en OJS 3.1 desde el registro hasta la revisión de la galería final.
 
 ## Registro en la revista
-Para realizar un envío a una revista de OJS 3.1, primero deberá registrarse como autor (consulte Registro en una revista). Después de eso, cuando inicie sesión, se le llevará a su panel de control.
+Para realizar un envío a una revista de OJS 3.1, primero deberá registrarse como autor (consulte Registro en una revista con un email donde tenga acceso para que luego pueda confirmar dicho email). Después de eso, cuando inicie sesión, se le llevará a su panel de control.
 
 ![captura de pantalla de Registro en la revista](./assets/image156.png)
 
-Actualmente está vacío ya que no ha hecho ninguna entrega.
+Actualmente está vacío ya que no ha hecho ninguna entrega. (o prodrían existir entregas anteriores.
 
-## Enviar un artículo
+## Enviar un artículo 
 
 Para iniciar un nuevo envío, haga clic en el botón Nuevo envío en el lado derecho de la pantalla. Se le llevará al Paso 1 de un proceso de 5 pasos para cargar y describir su envío.
 
@@ -60,7 +60,7 @@ En el Paso 3, se le pedirá que añada más información sobre la presentación,
 
 ![captura de pantalla de contribuyente adicional](./assets/image165.png)
 
-Puede agregar más **contribuidores** (por ejemplo, coautores), haciendo clic en el enlace **Agregar** contribuidores. Esto abrirá una nueva ventana con campos para introducir su información.
+Puede agregar más **contribuidores** (por ejemplo, coautores ), haciendo clic en el enlace **Agregar** contribuidores. Esto abrirá una nueva ventana con campos para introducir su información.
 
 ![captura de pantalla de añade colaborador/a](./assets/image4.png)
 
